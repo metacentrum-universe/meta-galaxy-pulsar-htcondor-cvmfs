@@ -1,0 +1,5 @@
+.vault_pass
+secrets.auto.tfvars
+.terraform/
+*.backup
+*.retry

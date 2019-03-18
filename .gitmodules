@@ -1,0 +1,3 @@
+[submodule "ansible/roles"]
+	path = ansible/roles
+	url = https://github.com/metacentrum-universe/ansible-universe.git

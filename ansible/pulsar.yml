@@ -1,0 +1,10 @@
+---
+- hosts: all
+  roles:
+    - basic
+    - user
+    - krb
+    - nfs
+    - cvmfs
+    - htcondor
+    - pulsar
